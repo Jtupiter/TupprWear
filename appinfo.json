@@ -1,0 +1,29 @@
+{
+  "uuid": "0dad64e4-90d2-4b63-8062-8e5043a1f544",
+  "shortName": "TupprWear",
+  "longName": "TupprWear",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "raw",
+        "name": "CLOCK_NUMBERS",
+        "file": "images/kitchenclockface1.png"
+      },
+      {
+        "type": "raw",
+        "name": "HOUR_HAND",
+        "file": "images/hourhand.png"
+      }]
+  }
+}
